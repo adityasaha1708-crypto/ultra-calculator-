@@ -1,0 +1,11 @@
+# Clone the repo
+git clone https://github.com/adityasaha1708-crypto/ultra-calculator.git
+cd ultra-calculator
+
+# Create all 4 files in this folder:
+# index.html, styles.css, script.js, README.md
+
+# Upload to GitHub
+git add .
+git commit -m "Add Ultra Calculator files"
+git push origin main
